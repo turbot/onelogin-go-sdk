@@ -4,7 +4,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/onelogin/onelogin-go-sdk/internal/models"
+	"github.com/onelogin/onelogin-go-sdk/pkg/onelogin/models"
 	"github.com/onelogin/onelogin-go-sdk/pkg/onelogin"
 )
 
