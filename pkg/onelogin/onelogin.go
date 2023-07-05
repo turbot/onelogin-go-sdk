@@ -1,8 +1,8 @@
 package onelogin
 
 import (
-	"github.com/steampipe/onelogin-go-sdk/v4/pkg/onelogin/api"
-	olerror "github.com/steampipe/onelogin-go-sdk/v4/pkg/onelogin/error"
+	"github.com/turbot/onelogin-go-sdk/v4/pkg/onelogin/api"
+	olerror "github.com/turbot/onelogin-go-sdk/v4/pkg/onelogin/error"
 )
 
 // OneloginSDK represents the Onelogin SDK.

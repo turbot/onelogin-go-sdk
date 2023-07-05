@@ -33,7 +33,7 @@ This is the Onelogin SDK, a Go package that provides a convenient interface for 
 To use the Onelogin SDK in your Go project, you need to have Go installed and set up. Then, you can install the SDK using the `go get` command:
 
 ```shell
-go get github.com/steampipe/onelogin-go-sdk
+go get github.com/turbot/onelogin-go-sdk
 ```
 
 ## Requirements
@@ -74,8 +74,8 @@ package main
 import (
 	"fmt"
 
-	"github.com/steampipe/onelogin-go-sdk/pkg/onelogin/models"
-	"github.com/steampipe/onelogin-go-sdk/pkg/onelogin"
+	"github.com/turbot/onelogin-go-sdk/pkg/onelogin/models"
+	"github.com/turbot/onelogin-go-sdk/pkg/onelogin"
 )
 
 func main() {

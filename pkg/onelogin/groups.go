@@ -1,6 +1,6 @@
 package onelogin
 
-import utl "github.com/steampipe/onelogin-go-sdk/v4/pkg/onelogin/utilities"
+import utl "github.com/turbot/onelogin-go-sdk/v4/pkg/onelogin/utilities"
 
 const (
 	GroupsPath = "api/1/groups"

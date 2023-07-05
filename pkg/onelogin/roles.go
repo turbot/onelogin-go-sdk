@@ -1,8 +1,8 @@
 package onelogin
 
 import (
-	mod "github.com/steampipe/onelogin-go-sdk/v4/pkg/onelogin/models"
-	utl "github.com/steampipe/onelogin-go-sdk/v4/pkg/onelogin/utilities"
+	mod "github.com/turbot/onelogin-go-sdk/v4/pkg/onelogin/models"
+	utl "github.com/turbot/onelogin-go-sdk/v4/pkg/onelogin/utilities"
 )
 
 var (

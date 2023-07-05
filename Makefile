@@ -13,4 +13,4 @@ secure:
 	./bin/gosec -exclude=G104 ./...
 
 link:
-	ln -s ${GOPATH}/src/github.com/steampipe/onelogin-go-sdk/v4 .
+	ln -s ${GOPATH}/src/github.com/turbot/onelogin-go-sdk/v4 .

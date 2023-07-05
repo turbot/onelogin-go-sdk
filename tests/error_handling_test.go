@@ -4,7 +4,7 @@ import (
 	"errors"
 	"testing"
 
-	"github.com/steampipe/onelogin-go-sdk/v4/pkg/onelogin/error"
+	"github.com/turbot/onelogin-go-sdk/v4/pkg/onelogin/error"
 )
 
 func TestNewSerializationError(t *testing.T) {

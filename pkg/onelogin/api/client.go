@@ -10,10 +10,10 @@ import (
 	"net/url"
 	"os"
 
-	"github.com/steampipe/onelogin-go-sdk/v4/pkg/onelogin/authentication"
-	olerror "github.com/steampipe/onelogin-go-sdk/v4/pkg/onelogin/error"
-	mod "github.com/steampipe/onelogin-go-sdk/v4/pkg/onelogin/models"
-	utl "github.com/steampipe/onelogin-go-sdk/v4/pkg/onelogin/utilities"
+	"github.com/turbot/onelogin-go-sdk/v4/pkg/onelogin/authentication"
+	olerror "github.com/turbot/onelogin-go-sdk/v4/pkg/onelogin/error"
+	mod "github.com/turbot/onelogin-go-sdk/v4/pkg/onelogin/models"
+	utl "github.com/turbot/onelogin-go-sdk/v4/pkg/onelogin/utilities"
 )
 
 // Client represents the API client.
