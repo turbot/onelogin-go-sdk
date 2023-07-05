@@ -1,8 +1,8 @@
 package onelogin
 
 import (
-	mod "github.com/onelogin/onelogin-go-sdk/v4/pkg/onelogin/models"
-	utl "github.com/onelogin/onelogin-go-sdk/v4/pkg/onelogin/utilities"
+	mod "github.com/steampipe/onelogin-go-sdk/v4/pkg/onelogin/models"
+	utl "github.com/steampipe/onelogin-go-sdk/v4/pkg/onelogin/utilities"
 )
 
 const (

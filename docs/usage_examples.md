@@ -4,8 +4,8 @@ package main
 import (
 	"fmt"
 
-	"github.com/onelogin/onelogin-go-sdk/pkg/onelogin/models"
-	"github.com/onelogin/onelogin-go-sdk/pkg/onelogin"
+	"github.com/steampipe/onelogin-go-sdk/pkg/onelogin/models"
+	"github.com/steampipe/onelogin-go-sdk/pkg/onelogin"
 )
 
 func main() {
